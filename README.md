@@ -8,5 +8,6 @@ Tecnologias utilizadas: Next.Js e CSS
 ```
 Copie o SSH ou HTTPS do repositório
 No seu terminal insira 'git clone https://github.com/Vict0r-Hugo/Pagina_de_Noticias.git'
-Entre na pasta do repositório e rode o seguinte comando npm run dev ou yarn dev (Vai depender do seu gerenciador de pacote)
+Para instalar as dependencias digite no terminal (npm install) ou (yarn install)
+Entre na pasta do repositório e rode o seguinte comando (npm run dev) ou (yarn dev) (Vai depender do seu gerenciador de pacote)
 ```
