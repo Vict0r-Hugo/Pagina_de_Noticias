@@ -19,6 +19,7 @@ export default function Home({ news }) {
       <Head>
         <title>Página de Notícias</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
       </Head>
       <div className={styles.main}>
         <div className={styles.content}>
